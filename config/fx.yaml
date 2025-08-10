@@ -1,0 +1,4 @@
+basis: "EUR"
+kurse:
+  EUR: 1.0
+  TRY: 0.03
